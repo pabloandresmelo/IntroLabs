@@ -8,7 +8,7 @@ Interactive DevOps training in your browser
 
 Online DevOps Dojo
 
-The [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules) is a novel set of hands on learning modules which cover both cultural and technical aspects of DevOps.![](../Assets/IntroLabs/001.png)
+The [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules) is a novel set of hands on learning modules which cover both cultural and technical aspects of DevOps.![](/Assets/IntroLabs/001.png)
 
 The modules are hosted on [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from the [Katacoda](https://www.katacoda.com/) platform. They can be run from your browser without any download or configuration.![](../Assets/IntroLabs/002.png)![](../Assets/IntroLabs/003.png)
 

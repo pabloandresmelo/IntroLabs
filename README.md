@@ -3,9 +3,7 @@ Laboratorios prácticos para la excelencia técnica
 
 Nuestros laboratorios se enmarcan en el dia a dia de un equipo de desarrollo agil, quien tiene a cargo una aplicacion llamada Pet Clinic. Ellos deben encontrar las mejores formas para lograr un producto de excelente calidad, con entregas a tiempo y constante generación de valor a sus usuarios.
 
-Todos los laboratorios corren sobre nuestra herramienta [UMANE 3.0](https://umanepre.everis.com/portal/) 
-
-![](Aspose.Words.4c5f0f88-0c0d-484e-8642-6cbd2d42edc1.007.png)
+Los laboratorios corren sobre nuestra herramienta [UMANE 3.0](https://umanepre.everis.com/portal/) 
 
 Todos los laboratorios están basados en situaciones y retos que constantemente enfrentamos como equipo durante la ejecución de nuestros proyectos. Por lo tanto, te presentamos a nuestros protagonistas de aventura:
 

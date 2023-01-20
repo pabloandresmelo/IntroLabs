@@ -1,112 +1,42 @@
-10/1/23, 15:32 Online DevOps Dojo • Online DevOps Dojo
+# TechLabs
+Laboratorios prácticos para la excelencia técnica
 
-[**ONLINE DEVOPS DOJO**](https://dxc-technology.github.io/about-devops-dojo/)/Assets/IntroLabs/
+Nuestros laboratorios se enmarcan en el dia a dia de un equipo de desarrollo agil, quien tiene a cargo una aplicacion llamada Pet Clinic. Ellos deben encontrar las mejores formas para lograr un producto de excelente calidad, con entregas a tiempo y constante generación de valor a sus usuarios.
 
-Interactive DevOps training in your browser
+Todos los laboratorios corren sobre nuestra herramienta [UMANE 3.0](https://umanepre.everis.com/portal/) 
 
-[Learn now](https://dxc-technology.github.io/about-devops-dojo/modules/tag/online-devops-dojo)
+![](Aspose.Words.4c5f0f88-0c0d-484e-8642-6cbd2d42edc1.007.png)
 
-Online DevOps Dojo
+Todos los laboratorios están basados en situaciones y retos que constantemente enfrentamos como equipo durante la ejecución de nuestros proyectos. Por lo tanto, te presentamos a nuestros protagonistas de aventura:
 
-The [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules) is a novel set of hands on learning modules which cover both cultural and technical aspects of DevOps.![](/Assets/IntroLabs/001.png)
+El equipo de **Pet Clinic** está conformado por:
 
-The modules are hosted on [GitHub](https://github.com/dxc-technology/online-devops-dojo) and executed from the [Katacoda](https://www.katacoda.com/) platform. They can be run from your browser without any download or configuration.![](/Assets/IntroLabs/002.png)![](/Assets/IntroLabs/003.png)
+![](/Assets/IntroLabs/012.png)
+**P**edro es el **P**roduct Owner. Es experto en el producto, entiende bien las necesidades del cliente y su visión de negocio. Tiene mucha experiencia y está orientado a los resultados.
 
-Informed by research on how people learn, the DevOps Dojo curriculum incorporates storytelling and emphasizes learning by doing to help improve learner engagement thus achieve desired learning outcomes.
+![](/Assets/IntroLabs/022.png)
+**S**antiago es el **S**crum Master. Es el encargado de mantener en el equipo los principios, valores y prácticas agiles. Tambien está al frente de controlar y evitar cualquier situación que pueda impedir el flujo de entrega de valor del equipo al negocio.
 
-[As humans, we love stories we have been sharing them since time immemorial. The Online DevOps Dojo takes an innovative, role-based story telling approach to enable hands-on learning ](https://dxc-technology.github.io/about-devops-dojo/modules)![](/Assets/IntroLabs/004.png)![](/Assets/IntroLabs/005.png)at scale.
+![](/Assets/IntroLabs/019.png)
+**D**avid, es un experimientado desarrollador de software, le encanta trabajar con buenas prácticas de desarrollo. Le gusta mucho innovar en las formas de hacer su codígo mas limpio y seguro.
 
-The [Online DevOps Dojo](https://dxc-technology.github.io/about-devops-dojo/modules) modules are set in the **Pet Clinic** multi-verse.![](/Assets/IntroLabs/006.png)
+![](/Assets/IntroLabs/014.png)
+**B**arbara es la **B**usiness User. Trabaja en el cliente y conoce bien como evolucionar la aplicación para apalancar el negocio.
 
-![](/Assets/IntroLabs/007.png)
+![](/Assets/IntroLabs/020.png)
+**T**atiana la la **T**ester. Es muy proactiva en la implementacion de procesos y herramientas que mejoren su trabajo de pruebas. Está interesada en el uso de automatización para optimizar su tiempo, cada vez está aprendiendo mas sobre como hacer código.
 
-The modules place learners in real-world-like scenarios, scenarios where they work with a virtual cast of characters sharing the hopes and dreams of the **Pet Clinic** team as they learn about DevOps.
+![](/Assets/IntroLabs/017.png)
+**S**andra es la Oficial de  **S**eguridad. Constantemente se preocupa por validar que el código cumpla con los estandares de seguridad como OWASP, tambien que las prácticas de versionamiento y manipulación de las fuentes y artefactos no permitan su exposición a terceros no autorizados. Actualmente está investigando como validar la seguridad de los ambientes de despliegue.
 
-The troupe of characters in team **Pet Clinic** are:
+![](/Assets/IntroLabs/018.png)
+G**a**briel es el Tech Guardian. Es el especialista en prácticas de excelencia técnica, implementación y uso de herramientas que ayudan al equipo a potencializar su trabajo en terminos de calidad, seguridad, mantenibilidad de código y eficiencia en la generación de valor.
 
-**C**harlie is the **C**EO of the Pet Clinic company; a technology entrepreneur, investor, and philanthropist.![](/Assets/IntroLabs/008.png)
-
-Charlie is intent on disrupting the world of Pet Clinics and sees DevOps as key to the company’s plans …![](/Assets/IntroLabs/009.png)
-
-**C**hun is a **c**oach, change facilitator and technologist. Chun is an avid outdoors person and adrenaline junky, lover of fun, hater of being on-call. She encourages teams to automate as much as possible of the build, test, package and deploy process to ensure that the systems were created with a LessOps model in mind.![](/Assets/IntroLabs/010.png)![](/Assets/IntroLabs/011.png)
-
-**P**aulo the **P**roduct Owner. A passionate and outcome-driven product owner with twenty years experience in all aspects of product delivery. He is particularly fond of using the word INCONCEIVABLE!, in response to which the team remind him that he keeps using that word and that it ![](/Assets/IntroLabs/012.png)[doesn’t mean what he thinks it means](https://www.youtube.com/watch?v=D58LpHBnvsI).![](/Assets/IntroLabs/013.png)
-
-**B**renda from the **B**usiness who is keen to take the Pet Clinic in to new growth areas sees DevOps being key to that. She is extremely proud of her two golden retrievers Bonnie and Clyde.![](/Assets/IntroLabs/014.png)![](/Assets/IntroLabs/015.png)
-
-**H**al the white hat **H**acker, engaged by the company to find and expose vulnerabilities in the company’s applications. Hal, tired of people asking him to open the pod bay doors, has been trying to get people to call him by the code name Neo instead. But most people still call him Hal. Hal has no pets due to a wide range of allergies.![](/Assets/IntroLabs/016.png)![](/Assets/IntroLabs/009.png)
-
-**S**elma is the company’s **S**ecurity Officer, and is the proud owner of a German Shepherd called Arnold. Selma is more than mindful of the fact that security approaches and technologies must be systemic to the applications’ data handling, transportation and storage mechanisms as she works to address the sudden spike in security vulnerabilities being identified as a result of Hal’s nefarious efforts.![](/Assets/IntroLabs/017.png)![](/Assets/IntroLabs/011.png)
-
-**A**dam is a System **A**dministrator transitioning to the role of Site Reliability Engineer (SRE). Adam is working closely with Selma to ensure the security of the company’s software and applications. Adam suspects that Hal may have an inside man. Adam has a particular set of skills so he is working on a plan to look for the hacker, to find the hacker, to … the hacker.![](/Assets/IntroLabs/018.png)![](/Assets/IntroLabs/013.png)
-
-**D**an, has worked as a senior developer for a number of years, most recently for First Order Incorporated a role he left due to the excessive travel requirements. Dan’s workmates still fondly recall the fun and games which ensued when Shelob, his pet tarantula, got loose on ![](/Assets/IntroLabs/019.png)*“Bring Your Pets to Work”* day.![](/Assets/IntroLabs/011.png)
-
-**T**ina is a **T**ester. Tina is aware that the role of and skills required by a tester are changing.![](/Assets/IntroLabs/020.png)
-
-Tina is keen to expand her strong testing skills, to become more technically adept, and learn more about coding so she can start working on test automation. Like Paulo she volunteers at the animal rescue center and helps run the Pet Clinic community engagement project which supports the shelter.![](/Assets/IntroLabs/021.png)
-
-**S**anthosh is the **S**crum Master and facilitator of the agile development team. Santhosh works to protect the team from anything - typically requests originating from Brenda or Paulo that may distract them from the sprint deliverables - and to remove anything that impedes the flow of value delivery from the team to the business.![](/Assets/IntroLabs/022.png)![](/Assets/IntroLabs/023.png)
-
-Experience DevOps - Use the Dojo, Luke!
-
-Get started right away on your online DevOps dojo journey with our collection of modules 👇
-
-![](/Assets/IntroLabs/024.png)
-
-[Welcome and Setup](https://dxc-technology.github.io/about-devops-dojo/katacoda/os1-welcome/)
-
-The team story, and setting you up for the other modules
-
-![](/Assets/IntroLabs/025.png)
-
-[Leading Change](https://dxc-technology.github.io/about-devops-dojo/katacoda/os2-leading-change/)
-
-Leading a DevOps transformation
-
-![](/Assets/IntroLabs/026.png)
-
-[Version Control](https://dxc-technology.github.io/about-devops-dojo/katacoda/os3-version-control/)
-
-Version control and GitHub
+Ya que conociste a todos los miembros del equipo, te presentamos los laboratorios disponibles 
 
 ![](/Assets/IntroLabs/027.png)
 
 [Continuous Integration](https://dxc-technology.github.io/about-devops-dojo/katacoda/os4-continuous-integration/)
+Un flujo de integración continua que te lleva desde el versionamiento en branches hasta el analisis estatico de codigo.
 
-A complete continuous integration workflow
 
-![](/Assets/IntroLabs/028.png)
-
-[Shift Left on Security](https://dxc-technology.github.io/about-devops-dojo/katacoda/os5-shift-left-security/)
-
-Security must be considered from the beginning and continuously assessed.
-
-![](/Assets/IntroLabs/029.png)
-
-[Value Stream Mapping](https://dxc-technology.github.io/about-devops-dojo/katacoda/os6-value-stream-mapping/)
-
-Learn how Value Stream Mapping can be used to help you and your team optimize your processes for value delivery and speed.
-
-![](/Assets/IntroLabs/030.png)
-
-[DevOps Kaizen](https://dxc-technology.github.io/about-devops-dojo/katacoda/os7-devops-kaizen/)
-
-DevOps Kaizen events can be used to help you and your team continuously improve your development processes.
-
-![](/Assets/IntroLabs/031.png)
-
-[Post Incident Practices](https://dxc-technology.github.io/about-devops-dojo/katacoda/os8-post-incident-practices/)
-
-Learn how to establish a Safety Culture, conduct blameless post-mortems and create a 'code of conduct' to help your team manage incidents in all phases of th...
-
-Open Source
-
-Online DevOps Dojo is fully Open Source. Head to the [about section](https://dxc-technology.github.io/about-devops-dojo/about#contributing) for more details and guidance for contributions.![](/Assets/IntroLabs/032.png)
-
-[**Home](https://dxc-technology.github.io/about-devops-dojo/) **[Modules](https://dxc-technology.github.io/about-devops-dojo/modules/) [DevOps @ DXC](https://dxc-technology.github.io/about-devops-dojo/devopsatdxc/) [Blog](https://dxc-technology.github.io/about-devops-dojo/blog/) [About**](https://dxc-technology.github.io/about-devops-dojo/about/)**
-
-© 2021 [DXC Technology](https://www.dxc.technology/) powered by [Jekyll](http://jekyllrb.com/) and [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) theme.
-
- Help us make this site awesome: [ edit this page, ](https://github.com/dxc-technology/about-devops-dojo/edit/master/index.md)[Y ask a question or](https://github.com/dxc-technology/about-devops-dojo/issues/new/choose?labels=question) [ report an issue](https://github.com/dxc-technology/about-devops-dojo/issues/new?labels=bug&template=bug_report.md)
-https://dxc-technology.github.io/about-devops-dojo/ 7/7
